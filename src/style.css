@@ -1,0 +1,57 @@
+
+* {
+    text-align: center;
+}
+
+body {
+    font-family: 'Roboto Mono', monospace;
+    min-height: 400px;
+    background-image: url('https://lh3.googleusercontent.com/proxy/5DtoZj-Qf_q6MjaFwaNpMUgwVjkVgeY3BAv7xtacwuFXSH6VHBtWlZZi8rc5wE7PNZyUNfRPo88lC9bZ4cnIX9ZXdn0GFOpSa8rn1BNlMs_F9ikeMBL6Iz_gGDVkctLArxw');
+    background-color: #111;
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.container {
+    text-align: center;
+    padding: 20px;
+    height: 100vh;
+}
+
+.page-title {
+    color: #ffffff;
+    margin: 0 0 5px;    
+}
+
+.page-subtitle {
+    color: #ffffff;
+    margin-top: 5px;
+}
+
+.page-logo {
+    width: 200px;
+}
+
+.alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+table {
+    border: 2px solid white;
+    border-collapse: collapse;
+    background-color: #170404
+}
+
+h1 {  
+    color: white;    
+    background-color: #170404
+}
+
+th, tr, td {
+    border: solid 1px white;
+    color: white;
+}
